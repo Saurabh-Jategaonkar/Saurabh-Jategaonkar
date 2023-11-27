@@ -57,8 +57,8 @@
 <p>
  <img align="right" height= "180" width="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy  <br/><br/>
-  &emsp; Innovative  <br/><br/>
+ 🚀 &emsp;  Full-stack sorcerer weaving magic into applications, from the enchanting realms of robotics to the data-driven galaxies of software, conjuring solutions that dance with real-world problems.  <br/><br/>
+ 🎓 &emsp;  Master's student at NJIT, delving deeper into the sacred scrolls of Computer Science; when not deciphering code, I'm chasing pixels in nature, turning hikes into photographic symphonies.  <br/><br/>
  📧 &emsp; Reach me: jategaonkarsaurabh58@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Saurabh-Jategaonkar/Saurabh-Jategaonkar/issues)
 
