@@ -89,13 +89,6 @@
   <a href="https://github.com/Saurabh-Jategaonkar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/Saurabh-Jategaonkar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Jategaonkar&theme=radical&border=7F3FBF&background=0D1117" alt="Saurabh's GitHub streak"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/Saurabh-Jategaonkar">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh-Jategaonkar&theme=radical" alt="Saurabh's GitHub Contribution"/>
