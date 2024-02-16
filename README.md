@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey there, I am <b>Saurabh!</b>
-                <!-- <b><a target="_blank" href="https://saurabh.com">Al Siam</a></b> -->
+                <!-- <b><a target="_blank" href="https://saurabh.com">Saurabh Jategaonkar</a></b> -->
         </samp>
 </h3>
 
@@ -65,7 +65,7 @@
 </p>
 <br/>
 
-## Technologies, Languages, Databases and stuff i know
+## Technologies, Languages, Databases and Stuff I know
 
 ![Python](https://img.shields.io/badge/Python-5f79ed?style=for-the-badge&labelColor=black&logo=python)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
