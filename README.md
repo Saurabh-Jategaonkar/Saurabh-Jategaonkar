@@ -27,7 +27,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a backend developer from <b>India</b> 」
+    「 A fellow software developer with a special interest in Machine Learning」
   </samp>
 </p>
 
