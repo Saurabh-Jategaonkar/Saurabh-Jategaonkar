@@ -65,7 +65,7 @@
 </p>
 <br/>
 
-## Use To Code
+## Technologies, Languages, Databases and stuff i know
 
 ![Python](https://img.shields.io/badge/Python-5f79ed?style=for-the-badge&labelColor=black&logo=python)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
